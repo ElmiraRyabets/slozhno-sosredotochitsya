@@ -16,6 +16,8 @@
   --brackets-color: var(--subtitle-color);
   --text-color: var(--subtitle-color);
   --section-title-color: var(--subtitle-color);
+  --background-color:  #FFF1F7;
+
 }
 
 @media (prefers-color-scheme: light) {
@@ -31,5 +33,6 @@
     --brackets-color: var(--subtitle-color);
     --text-color: var(--subtitle-color);
     --section-title-color: var(--subtitle-color);
+    --background-color:  #FFF1F7;
     }
 }
