@@ -410,3 +410,7 @@
       grid-template-columns: 1fr 2.06fr;
     }
 }
+
+.gallery-item{
+  line-height: 0;
+}
